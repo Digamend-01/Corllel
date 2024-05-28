@@ -193,9 +193,9 @@ class _FooterMobile2State extends State<FooterMobile2> {
                               height: width * 0.04,
                             ),
                           ),
-                          SizedBox(
-                            width: width * 0.06,
-                          ),
+                          // SizedBox(
+                          //   width: width * 0.06,
+                          // ),
                           InkWell(
                             onTap: () {
                               html.window.open(
