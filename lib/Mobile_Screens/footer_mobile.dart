@@ -234,7 +234,7 @@ class _FooterMobile2State extends State<FooterMobile2> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                              "Copyright @ 2024 DIGAMEND Technology Pvt.Ltd.",
+                            "Copyright @ 2024 DIGAMEND Technology Pvt.Ltd.",
                             style: GoogleFonts.oxygen(
                                 fontSize: width * 0.03, color: Colors.grey),
                           ),
